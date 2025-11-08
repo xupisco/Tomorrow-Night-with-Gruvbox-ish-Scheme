@@ -1,7 +1,7 @@
 {
   "name": "vscode_tomorrow_gruvbox-color-theme",
   "displayName": "Tomorrow Night with Gruvbox-ish Scheme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "LeandroVoltolino",
   "engines": {
     "vscode": "*"
@@ -12,6 +12,11 @@
         "label": "Tomorrow Night with Gruvbox-ish Scheme",
         "uiTheme": "vs-dark",
         "path": "./themes/vscode_tomorrow_gruvbox-color-theme.json"
+      },
+      {
+        "label": "Tomorrow Night (inverted) with Gruvbox-ish Scheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vscode_tomorrow_gruvbox_inverted-color-theme.json"
       }
     ]
   }
