@@ -1,0 +1,18 @@
+{
+  "name": "vscode_tomorrow_gruvbox-color-theme",
+  "displayName": "Tomorrow Night with Gruvbox-ish Scheme",
+  "version": "1.0.0",
+  "publisher": "LeandroVoltolino",
+  "engines": {
+    "vscode": "*"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tomorrow Night with Gruvbox-ish Scheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vscode_tomorrow_gruvbox-color-theme.json"
+      }
+    ]
+  }
+}
